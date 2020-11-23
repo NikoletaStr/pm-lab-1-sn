@@ -17,7 +17,7 @@ Odpowiedź:  Program pokazuje, za pomocą użytego kodu, działanie sterowania w
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  Zamiana podłaczenia diody z rezystorem nie wpłynęła na działanie układu.
+Odpowiedź:  Zamiana podłaczenia diody z rezystorem nie wpłynęła na działanie układu. 
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
