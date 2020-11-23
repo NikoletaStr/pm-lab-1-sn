@@ -13,7 +13,7 @@ Grupa studencka:            WEL18DE1S1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Program pokazuje, za pomocą użytego kodu, działanie sterowania wyjściem cyfrowym. Następuje podłączenie płytki uruchomieniowej Arduino Uno, co dowodzi też przełączenie OFF na ON i zapala się na żółto (pomarańczowo) dioda LED.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
