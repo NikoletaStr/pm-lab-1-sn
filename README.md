@@ -33,7 +33,7 @@ Odpowiedź:  światła się nagle zmieniają
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  
+Odpowiedź:  tak, jest to możliwe
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
